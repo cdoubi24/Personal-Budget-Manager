@@ -1,0 +1,15 @@
+personal-budget-manager/
+│
+├── main.py                        # Entry point of the application
+├── README.md                      # Description of the project
+├── requirements.txt               # Python dependencies
+├── src/                           # Source code
+│   ├── gui.py                     # Tkinter GUI components
+│   ├── budget_manager.py          # Logic for managing budgets
+│   ├── data_handler.py            # Data storage and retrieval
+│   └── visualizations.py          # Generate reports and charts
+├── assets/                        # Assets like icons, images
+│   └── logo.png                   # Example logo (if needed)
+├── LICENSE                        # License file
+└── tests/                         # Unit tests for the application
+    └── test_budget_manager.py     # Tests for the logic
